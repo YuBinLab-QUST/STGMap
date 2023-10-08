@@ -1,0 +1,1598 @@
+Cell_ID,Cell_class_id,Cell_class_name
+1,3,Glutamatergic Neuron
+2,3,Glutamatergic Neuron
+3,3,Glutamatergic Neuron
+4,3,Glutamatergic Neuron
+5,3,Glutamatergic Neuron
+6,3,Glutamatergic Neuron
+7,3,Glutamatergic Neuron
+8,3,Glutamatergic Neuron
+9,3,Glutamatergic Neuron
+10,3,Glutamatergic Neuron
+11,3,Glutamatergic Neuron
+12,3,Glutamatergic Neuron
+13,3,Glutamatergic Neuron
+14,3,Glutamatergic Neuron
+15,3,Glutamatergic Neuron
+16,3,Glutamatergic Neuron
+17,3,Glutamatergic Neuron
+18,3,Glutamatergic Neuron
+19,2,GABA-ergic Neuron
+20,2,GABA-ergic Neuron
+21,2,GABA-ergic Neuron
+22,2,GABA-ergic Neuron
+23,3,Glutamatergic Neuron
+24,2,GABA-ergic Neuron
+25,3,Glutamatergic Neuron
+26,3,Glutamatergic Neuron
+27,2,GABA-ergic Neuron
+28,3,Glutamatergic Neuron
+29,2,GABA-ergic Neuron
+30,2,GABA-ergic Neuron
+31,2,GABA-ergic Neuron
+32,3,Glutamatergic Neuron
+33,2,GABA-ergic Neuron
+34,3,Glutamatergic Neuron
+35,2,GABA-ergic Neuron
+36,3,Glutamatergic Neuron
+37,2,GABA-ergic Neuron
+38,3,Glutamatergic Neuron
+39,3,Glutamatergic Neuron
+40,2,GABA-ergic Neuron
+41,3,Glutamatergic Neuron
+42,3,Glutamatergic Neuron
+43,2,GABA-ergic Neuron
+44,2,GABA-ergic Neuron
+45,3,Glutamatergic Neuron
+46,7,Oligodendrocyte.3
+47,1,Endothelial Cell
+48,3,Glutamatergic Neuron
+49,0,Astrocyte
+50,2,GABA-ergic Neuron
+51,3,Glutamatergic Neuron
+52,3,Glutamatergic Neuron
+53,0,Astrocyte
+54,3,Glutamatergic Neuron
+55,3,Glutamatergic Neuron
+56,2,GABA-ergic Neuron
+57,2,GABA-ergic Neuron
+58,2,GABA-ergic Neuron
+59,3,Glutamatergic Neuron
+60,2,GABA-ergic Neuron
+61,2,GABA-ergic Neuron
+62,2,GABA-ergic Neuron
+63,0,Astrocyte
+64,3,Glutamatergic Neuron
+65,2,GABA-ergic Neuron
+66,2,GABA-ergic Neuron
+67,2,GABA-ergic Neuron
+68,3,Glutamatergic Neuron
+69,3,Glutamatergic Neuron
+70,3,Glutamatergic Neuron
+71,2,GABA-ergic Neuron
+72,3,Glutamatergic Neuron
+73,3,Glutamatergic Neuron
+74,3,Glutamatergic Neuron
+75,3,Glutamatergic Neuron
+76,3,Glutamatergic Neuron
+77,3,Glutamatergic Neuron
+78,3,Glutamatergic Neuron
+79,3,Glutamatergic Neuron
+80,3,Glutamatergic Neuron
+81,3,Glutamatergic Neuron
+82,3,Glutamatergic Neuron
+83,3,Glutamatergic Neuron
+84,3,Glutamatergic Neuron
+85,3,Glutamatergic Neuron
+86,3,Glutamatergic Neuron
+87,3,Glutamatergic Neuron
+88,3,Glutamatergic Neuron
+89,3,Glutamatergic Neuron
+90,3,Glutamatergic Neuron
+91,6,Oligodendrocyte.2
+92,2,GABA-ergic Neuron
+93,3,Glutamatergic Neuron
+94,0,Astrocyte
+95,0,Astrocyte
+96,6,Oligodendrocyte.2
+97,4,Microglia
+98,2,GABA-ergic Neuron
+99,3,Glutamatergic Neuron
+100,0,Astrocyte
+101,3,Glutamatergic Neuron
+102,2,GABA-ergic Neuron
+103,3,Glutamatergic Neuron
+104,2,GABA-ergic Neuron
+105,2,GABA-ergic Neuron
+106,3,Glutamatergic Neuron
+107,3,Glutamatergic Neuron
+108,3,Glutamatergic Neuron
+109,4,Microglia
+110,2,GABA-ergic Neuron
+111,3,Glutamatergic Neuron
+112,3,Glutamatergic Neuron
+113,3,Glutamatergic Neuron
+114,3,Glutamatergic Neuron
+115,2,GABA-ergic Neuron
+116,3,Glutamatergic Neuron
+117,3,Glutamatergic Neuron
+118,2,GABA-ergic Neuron
+119,2,GABA-ergic Neuron
+120,3,Glutamatergic Neuron
+121,2,GABA-ergic Neuron
+122,4,Microglia
+123,3,Glutamatergic Neuron
+124,3,Glutamatergic Neuron
+125,3,Glutamatergic Neuron
+126,3,Glutamatergic Neuron
+127,3,Glutamatergic Neuron
+128,3,Glutamatergic Neuron
+129,3,Glutamatergic Neuron
+130,4,Microglia
+131,2,GABA-ergic Neuron
+132,3,Glutamatergic Neuron
+133,2,GABA-ergic Neuron
+134,3,Glutamatergic Neuron
+135,0,Astrocyte
+136,2,GABA-ergic Neuron
+137,3,Glutamatergic Neuron
+138,2,GABA-ergic Neuron
+139,3,Glutamatergic Neuron
+140,2,GABA-ergic Neuron
+141,3,Glutamatergic Neuron
+142,3,Glutamatergic Neuron
+143,3,Glutamatergic Neuron
+144,3,Glutamatergic Neuron
+145,2,GABA-ergic Neuron
+146,2,GABA-ergic Neuron
+147,3,Glutamatergic Neuron
+148,2,GABA-ergic Neuron
+149,3,Glutamatergic Neuron
+150,3,Glutamatergic Neuron
+151,2,GABA-ergic Neuron
+152,3,Glutamatergic Neuron
+153,3,Glutamatergic Neuron
+154,3,Glutamatergic Neuron
+155,3,Glutamatergic Neuron
+156,3,Glutamatergic Neuron
+157,2,GABA-ergic Neuron
+158,3,Glutamatergic Neuron
+159,2,GABA-ergic Neuron
+160,3,Glutamatergic Neuron
+161,2,GABA-ergic Neuron
+162,2,GABA-ergic Neuron
+163,3,Glutamatergic Neuron
+164,2,GABA-ergic Neuron
+165,3,Glutamatergic Neuron
+166,2,GABA-ergic Neuron
+167,2,GABA-ergic Neuron
+168,0,Astrocyte
+169,3,Glutamatergic Neuron
+170,3,Glutamatergic Neuron
+171,3,Glutamatergic Neuron
+172,2,GABA-ergic Neuron
+173,2,GABA-ergic Neuron
+174,2,GABA-ergic Neuron
+175,2,GABA-ergic Neuron
+176,2,GABA-ergic Neuron
+177,2,GABA-ergic Neuron
+178,2,GABA-ergic Neuron
+179,3,Glutamatergic Neuron
+180,2,GABA-ergic Neuron
+181,2,GABA-ergic Neuron
+182,2,GABA-ergic Neuron
+183,3,Glutamatergic Neuron
+184,2,GABA-ergic Neuron
+185,3,Glutamatergic Neuron
+186,3,Glutamatergic Neuron
+187,2,GABA-ergic Neuron
+188,2,GABA-ergic Neuron
+189,2,GABA-ergic Neuron
+190,3,Glutamatergic Neuron
+191,3,Glutamatergic Neuron
+192,3,Glutamatergic Neuron
+193,2,GABA-ergic Neuron
+194,2,GABA-ergic Neuron
+195,2,GABA-ergic Neuron
+196,2,GABA-ergic Neuron
+197,0,Astrocyte
+198,3,Glutamatergic Neuron
+199,3,Glutamatergic Neuron
+200,3,Glutamatergic Neuron
+201,1,Endothelial Cell
+202,3,Glutamatergic Neuron
+203,2,GABA-ergic Neuron
+204,2,GABA-ergic Neuron
+205,2,GABA-ergic Neuron
+206,2,GABA-ergic Neuron
+207,0,Astrocyte
+208,3,Glutamatergic Neuron
+209,3,Glutamatergic Neuron
+210,3,Glutamatergic Neuron
+211,2,GABA-ergic Neuron
+212,3,Glutamatergic Neuron
+213,3,Glutamatergic Neuron
+214,2,GABA-ergic Neuron
+215,2,GABA-ergic Neuron
+216,2,GABA-ergic Neuron
+217,3,Glutamatergic Neuron
+218,2,GABA-ergic Neuron
+219,3,Glutamatergic Neuron
+220,2,GABA-ergic Neuron
+221,2,GABA-ergic Neuron
+222,2,GABA-ergic Neuron
+223,3,Glutamatergic Neuron
+224,3,Glutamatergic Neuron
+225,3,Glutamatergic Neuron
+226,3,Glutamatergic Neuron
+227,2,GABA-ergic Neuron
+228,3,Glutamatergic Neuron
+229,3,Glutamatergic Neuron
+230,3,Glutamatergic Neuron
+231,3,Glutamatergic Neuron
+232,2,GABA-ergic Neuron
+233,2,GABA-ergic Neuron
+234,0,Astrocyte
+235,3,Glutamatergic Neuron
+236,3,Glutamatergic Neuron
+237,2,GABA-ergic Neuron
+238,0,Astrocyte
+239,2,GABA-ergic Neuron
+240,3,Glutamatergic Neuron
+241,3,Glutamatergic Neuron
+242,3,Glutamatergic Neuron
+243,3,Glutamatergic Neuron
+244,4,Microglia
+245,3,Glutamatergic Neuron
+246,3,Glutamatergic Neuron
+247,3,Glutamatergic Neuron
+248,3,Glutamatergic Neuron
+249,3,Glutamatergic Neuron
+250,2,GABA-ergic Neuron
+251,0,Astrocyte
+252,3,Glutamatergic Neuron
+253,3,Glutamatergic Neuron
+254,3,Glutamatergic Neuron
+255,2,GABA-ergic Neuron
+256,2,GABA-ergic Neuron
+257,2,GABA-ergic Neuron
+258,3,Glutamatergic Neuron
+259,3,Glutamatergic Neuron
+260,3,Glutamatergic Neuron
+261,3,Glutamatergic Neuron
+262,2,GABA-ergic Neuron
+263,3,Glutamatergic Neuron
+264,3,Glutamatergic Neuron
+265,3,Glutamatergic Neuron
+266,0,Astrocyte
+267,3,Glutamatergic Neuron
+268,3,Glutamatergic Neuron
+269,3,Glutamatergic Neuron
+270,3,Glutamatergic Neuron
+271,3,Glutamatergic Neuron
+272,3,Glutamatergic Neuron
+273,3,Glutamatergic Neuron
+274,3,Glutamatergic Neuron
+275,3,Glutamatergic Neuron
+276,3,Glutamatergic Neuron
+277,3,Glutamatergic Neuron
+278,3,Glutamatergic Neuron
+279,1,Endothelial Cell
+280,3,Glutamatergic Neuron
+281,3,Glutamatergic Neuron
+282,2,GABA-ergic Neuron
+283,3,Glutamatergic Neuron
+284,3,Glutamatergic Neuron
+285,2,GABA-ergic Neuron
+286,1,Endothelial Cell
+287,3,Glutamatergic Neuron
+288,3,Glutamatergic Neuron
+289,2,GABA-ergic Neuron
+290,3,Glutamatergic Neuron
+291,0,Astrocyte
+292,3,Glutamatergic Neuron
+293,3,Glutamatergic Neuron
+294,3,Glutamatergic Neuron
+295,7,Oligodendrocyte.3
+296,0,Astrocyte
+297,3,Glutamatergic Neuron
+298,3,Glutamatergic Neuron
+299,3,Glutamatergic Neuron
+300,3,Glutamatergic Neuron
+301,2,GABA-ergic Neuron
+302,3,Glutamatergic Neuron
+303,3,Glutamatergic Neuron
+304,3,Glutamatergic Neuron
+305,3,Glutamatergic Neuron
+306,3,Glutamatergic Neuron
+307,3,Glutamatergic Neuron
+308,3,Glutamatergic Neuron
+309,2,GABA-ergic Neuron
+310,3,Glutamatergic Neuron
+311,3,Glutamatergic Neuron
+312,3,Glutamatergic Neuron
+313,3,Glutamatergic Neuron
+314,3,Glutamatergic Neuron
+315,3,Glutamatergic Neuron
+316,3,Glutamatergic Neuron
+317,2,GABA-ergic Neuron
+318,2,GABA-ergic Neuron
+319,2,GABA-ergic Neuron
+320,3,Glutamatergic Neuron
+321,3,Glutamatergic Neuron
+322,3,Glutamatergic Neuron
+323,3,Glutamatergic Neuron
+324,2,GABA-ergic Neuron
+325,2,GABA-ergic Neuron
+326,2,GABA-ergic Neuron
+327,2,GABA-ergic Neuron
+328,3,Glutamatergic Neuron
+329,3,Glutamatergic Neuron
+330,3,Glutamatergic Neuron
+331,3,Glutamatergic Neuron
+332,3,Glutamatergic Neuron
+333,2,GABA-ergic Neuron
+334,0,Astrocyte
+335,2,GABA-ergic Neuron
+336,0,Astrocyte
+337,2,GABA-ergic Neuron
+338,2,GABA-ergic Neuron
+339,2,GABA-ergic Neuron
+340,3,Glutamatergic Neuron
+341,3,Glutamatergic Neuron
+342,3,Glutamatergic Neuron
+343,3,Glutamatergic Neuron
+344,3,Glutamatergic Neuron
+345,3,Glutamatergic Neuron
+346,3,Glutamatergic Neuron
+347,3,Glutamatergic Neuron
+348,3,Glutamatergic Neuron
+349,3,Glutamatergic Neuron
+350,2,GABA-ergic Neuron
+351,3,Glutamatergic Neuron
+352,3,Glutamatergic Neuron
+353,3,Glutamatergic Neuron
+354,2,GABA-ergic Neuron
+355,2,GABA-ergic Neuron
+356,2,GABA-ergic Neuron
+357,3,Glutamatergic Neuron
+358,3,Glutamatergic Neuron
+359,3,Glutamatergic Neuron
+360,3,Glutamatergic Neuron
+361,2,GABA-ergic Neuron
+362,2,GABA-ergic Neuron
+363,3,Glutamatergic Neuron
+364,3,Glutamatergic Neuron
+365,0,Astrocyte
+366,2,GABA-ergic Neuron
+367,3,Glutamatergic Neuron
+368,3,Glutamatergic Neuron
+369,3,Glutamatergic Neuron
+370,3,Glutamatergic Neuron
+371,3,Glutamatergic Neuron
+372,7,Oligodendrocyte.3
+373,2,GABA-ergic Neuron
+374,3,Glutamatergic Neuron
+375,3,Glutamatergic Neuron
+376,2,GABA-ergic Neuron
+377,3,Glutamatergic Neuron
+378,3,Glutamatergic Neuron
+379,3,Glutamatergic Neuron
+380,3,Glutamatergic Neuron
+381,3,Glutamatergic Neuron
+382,0,Astrocyte
+383,3,Glutamatergic Neuron
+384,3,Glutamatergic Neuron
+385,3,Glutamatergic Neuron
+386,3,Glutamatergic Neuron
+387,3,Glutamatergic Neuron
+388,2,GABA-ergic Neuron
+389,2,GABA-ergic Neuron
+390,3,Glutamatergic Neuron
+391,3,Glutamatergic Neuron
+392,3,Glutamatergic Neuron
+393,3,Glutamatergic Neuron
+394,2,GABA-ergic Neuron
+395,2,GABA-ergic Neuron
+396,2,GABA-ergic Neuron
+397,2,GABA-ergic Neuron
+398,3,Glutamatergic Neuron
+399,3,Glutamatergic Neuron
+400,2,GABA-ergic Neuron
+401,3,Glutamatergic Neuron
+402,3,Glutamatergic Neuron
+403,2,GABA-ergic Neuron
+404,0,Astrocyte
+405,3,Glutamatergic Neuron
+406,2,GABA-ergic Neuron
+407,0,Astrocyte
+408,2,GABA-ergic Neuron
+409,2,GABA-ergic Neuron
+410,0,Astrocyte
+411,3,Glutamatergic Neuron
+412,2,GABA-ergic Neuron
+413,2,GABA-ergic Neuron
+414,2,GABA-ergic Neuron
+415,2,GABA-ergic Neuron
+416,2,GABA-ergic Neuron
+417,0,Astrocyte
+418,3,Glutamatergic Neuron
+419,3,Glutamatergic Neuron
+420,3,Glutamatergic Neuron
+421,2,GABA-ergic Neuron
+422,3,Glutamatergic Neuron
+423,3,Glutamatergic Neuron
+424,2,GABA-ergic Neuron
+425,2,GABA-ergic Neuron
+426,3,Glutamatergic Neuron
+427,2,GABA-ergic Neuron
+428,2,GABA-ergic Neuron
+429,3,Glutamatergic Neuron
+430,2,GABA-ergic Neuron
+431,3,Glutamatergic Neuron
+432,3,Glutamatergic Neuron
+433,2,GABA-ergic Neuron
+434,4,Microglia
+435,3,Glutamatergic Neuron
+436,2,GABA-ergic Neuron
+437,2,GABA-ergic Neuron
+438,2,GABA-ergic Neuron
+439,3,Glutamatergic Neuron
+440,3,Glutamatergic Neuron
+441,2,GABA-ergic Neuron
+442,3,Glutamatergic Neuron
+443,3,Glutamatergic Neuron
+444,5,Oligodendrocyte.1
+445,2,GABA-ergic Neuron
+446,2,GABA-ergic Neuron
+447,2,GABA-ergic Neuron
+448,3,Glutamatergic Neuron
+449,3,Glutamatergic Neuron
+450,3,Glutamatergic Neuron
+451,2,GABA-ergic Neuron
+452,3,Glutamatergic Neuron
+453,3,Glutamatergic Neuron
+454,2,GABA-ergic Neuron
+455,3,Glutamatergic Neuron
+456,2,GABA-ergic Neuron
+457,2,GABA-ergic Neuron
+458,2,GABA-ergic Neuron
+459,3,Glutamatergic Neuron
+460,2,GABA-ergic Neuron
+461,0,Astrocyte
+462,2,GABA-ergic Neuron
+463,2,GABA-ergic Neuron
+464,3,Glutamatergic Neuron
+465,3,Glutamatergic Neuron
+466,3,Glutamatergic Neuron
+467,3,Glutamatergic Neuron
+468,2,GABA-ergic Neuron
+469,5,Oligodendrocyte.1
+470,2,GABA-ergic Neuron
+471,3,Glutamatergic Neuron
+472,3,Glutamatergic Neuron
+473,2,GABA-ergic Neuron
+474,3,Glutamatergic Neuron
+475,2,GABA-ergic Neuron
+476,7,Oligodendrocyte.3
+477,3,Glutamatergic Neuron
+478,3,Glutamatergic Neuron
+479,4,Microglia
+480,2,GABA-ergic Neuron
+481,3,Glutamatergic Neuron
+482,3,Glutamatergic Neuron
+483,2,GABA-ergic Neuron
+484,6,Oligodendrocyte.2
+485,3,Glutamatergic Neuron
+486,2,GABA-ergic Neuron
+487,3,Glutamatergic Neuron
+488,2,GABA-ergic Neuron
+489,3,Glutamatergic Neuron
+490,2,GABA-ergic Neuron
+491,3,Glutamatergic Neuron
+492,4,Microglia
+493,3,Glutamatergic Neuron
+494,2,GABA-ergic Neuron
+495,6,Oligodendrocyte.2
+496,0,Astrocyte
+497,3,Glutamatergic Neuron
+498,3,Glutamatergic Neuron
+499,2,GABA-ergic Neuron
+500,3,Glutamatergic Neuron
+501,3,Glutamatergic Neuron
+502,6,Oligodendrocyte.2
+503,0,Astrocyte
+504,6,Oligodendrocyte.2
+505,3,Glutamatergic Neuron
+506,3,Glutamatergic Neuron
+507,2,GABA-ergic Neuron
+508,2,GABA-ergic Neuron
+509,2,GABA-ergic Neuron
+510,4,Microglia
+511,2,GABA-ergic Neuron
+512,5,Oligodendrocyte.1
+513,3,Glutamatergic Neuron
+514,3,Glutamatergic Neuron
+515,2,GABA-ergic Neuron
+516,0,Astrocyte
+517,3,Glutamatergic Neuron
+518,3,Glutamatergic Neuron
+519,6,Oligodendrocyte.2
+520,7,Oligodendrocyte.3
+521,3,Glutamatergic Neuron
+522,3,Glutamatergic Neuron
+523,3,Glutamatergic Neuron
+524,3,Glutamatergic Neuron
+525,3,Glutamatergic Neuron
+526,6,Oligodendrocyte.2
+527,7,Oligodendrocyte.3
+528,3,Glutamatergic Neuron
+529,3,Glutamatergic Neuron
+530,0,Astrocyte
+531,2,GABA-ergic Neuron
+532,2,GABA-ergic Neuron
+533,3,Glutamatergic Neuron
+534,3,Glutamatergic Neuron
+535,3,Glutamatergic Neuron
+536,3,Glutamatergic Neuron
+537,3,Glutamatergic Neuron
+538,2,GABA-ergic Neuron
+539,3,Glutamatergic Neuron
+540,3,Glutamatergic Neuron
+541,3,Glutamatergic Neuron
+542,3,Glutamatergic Neuron
+543,3,Glutamatergic Neuron
+544,3,Glutamatergic Neuron
+545,3,Glutamatergic Neuron
+546,3,Glutamatergic Neuron
+547,0,Astrocyte
+548,3,Glutamatergic Neuron
+549,3,Glutamatergic Neuron
+550,0,Astrocyte
+551,3,Glutamatergic Neuron
+552,0,Astrocyte
+553,2,GABA-ergic Neuron
+554,3,Glutamatergic Neuron
+555,2,GABA-ergic Neuron
+556,3,Glutamatergic Neuron
+557,2,GABA-ergic Neuron
+558,3,Glutamatergic Neuron
+559,3,Glutamatergic Neuron
+560,2,GABA-ergic Neuron
+561,0,Astrocyte
+562,2,GABA-ergic Neuron
+563,2,GABA-ergic Neuron
+564,2,GABA-ergic Neuron
+565,3,Glutamatergic Neuron
+566,7,Oligodendrocyte.3
+567,3,Glutamatergic Neuron
+568,0,Astrocyte
+569,7,Oligodendrocyte.3
+570,3,Glutamatergic Neuron
+571,0,Astrocyte
+572,3,Glutamatergic Neuron
+573,3,Glutamatergic Neuron
+574,0,Astrocyte
+575,3,Glutamatergic Neuron
+576,2,GABA-ergic Neuron
+577,3,Glutamatergic Neuron
+578,4,Microglia
+579,0,Astrocyte
+580,2,GABA-ergic Neuron
+581,0,Astrocyte
+582,0,Astrocyte
+583,2,GABA-ergic Neuron
+584,3,Glutamatergic Neuron
+585,2,GABA-ergic Neuron
+586,2,GABA-ergic Neuron
+587,2,GABA-ergic Neuron
+588,2,GABA-ergic Neuron
+589,2,GABA-ergic Neuron
+590,2,GABA-ergic Neuron
+591,2,GABA-ergic Neuron
+592,2,GABA-ergic Neuron
+593,0,Astrocyte
+594,2,GABA-ergic Neuron
+595,3,Glutamatergic Neuron
+596,3,Glutamatergic Neuron
+597,3,Glutamatergic Neuron
+598,2,GABA-ergic Neuron
+599,2,GABA-ergic Neuron
+600,2,GABA-ergic Neuron
+601,2,GABA-ergic Neuron
+602,3,Glutamatergic Neuron
+603,2,GABA-ergic Neuron
+604,3,Glutamatergic Neuron
+605,3,Glutamatergic Neuron
+606,2,GABA-ergic Neuron
+607,2,GABA-ergic Neuron
+608,2,GABA-ergic Neuron
+609,2,GABA-ergic Neuron
+610,2,GABA-ergic Neuron
+611,3,Glutamatergic Neuron
+612,2,GABA-ergic Neuron
+613,3,Glutamatergic Neuron
+614,3,Glutamatergic Neuron
+615,3,Glutamatergic Neuron
+616,2,GABA-ergic Neuron
+617,2,GABA-ergic Neuron
+618,3,Glutamatergic Neuron
+619,2,GABA-ergic Neuron
+620,3,Glutamatergic Neuron
+621,2,GABA-ergic Neuron
+622,3,Glutamatergic Neuron
+623,2,GABA-ergic Neuron
+624,3,Glutamatergic Neuron
+625,4,Microglia
+626,3,Glutamatergic Neuron
+627,3,Glutamatergic Neuron
+628,2,GABA-ergic Neuron
+629,2,GABA-ergic Neuron
+630,2,GABA-ergic Neuron
+631,2,GABA-ergic Neuron
+632,3,Glutamatergic Neuron
+633,2,GABA-ergic Neuron
+634,3,Glutamatergic Neuron
+635,2,GABA-ergic Neuron
+636,2,GABA-ergic Neuron
+637,3,Glutamatergic Neuron
+638,2,GABA-ergic Neuron
+639,3,Glutamatergic Neuron
+640,2,GABA-ergic Neuron
+641,2,GABA-ergic Neuron
+642,2,GABA-ergic Neuron
+643,3,Glutamatergic Neuron
+644,2,GABA-ergic Neuron
+645,2,GABA-ergic Neuron
+646,2,GABA-ergic Neuron
+647,2,GABA-ergic Neuron
+648,2,GABA-ergic Neuron
+649,3,Glutamatergic Neuron
+650,0,Astrocyte
+651,2,GABA-ergic Neuron
+652,2,GABA-ergic Neuron
+653,2,GABA-ergic Neuron
+654,2,GABA-ergic Neuron
+655,3,Glutamatergic Neuron
+656,3,Glutamatergic Neuron
+657,2,GABA-ergic Neuron
+658,2,GABA-ergic Neuron
+659,3,Glutamatergic Neuron
+660,3,Glutamatergic Neuron
+661,2,GABA-ergic Neuron
+662,3,Glutamatergic Neuron
+663,2,GABA-ergic Neuron
+664,2,GABA-ergic Neuron
+665,2,GABA-ergic Neuron
+666,3,Glutamatergic Neuron
+667,2,GABA-ergic Neuron
+668,0,Astrocyte
+669,2,GABA-ergic Neuron
+670,3,Glutamatergic Neuron
+671,2,GABA-ergic Neuron
+672,2,GABA-ergic Neuron
+673,2,GABA-ergic Neuron
+674,2,GABA-ergic Neuron
+675,3,Glutamatergic Neuron
+676,2,GABA-ergic Neuron
+677,3,Glutamatergic Neuron
+678,3,Glutamatergic Neuron
+679,2,GABA-ergic Neuron
+680,2,GABA-ergic Neuron
+681,2,GABA-ergic Neuron
+682,2,GABA-ergic Neuron
+683,3,Glutamatergic Neuron
+684,3,Glutamatergic Neuron
+685,7,Oligodendrocyte.3
+686,3,Glutamatergic Neuron
+687,2,GABA-ergic Neuron
+688,2,GABA-ergic Neuron
+689,3,Glutamatergic Neuron
+690,2,GABA-ergic Neuron
+691,1,Endothelial Cell
+692,3,Glutamatergic Neuron
+693,3,Glutamatergic Neuron
+694,2,GABA-ergic Neuron
+695,6,Oligodendrocyte.2
+696,3,Glutamatergic Neuron
+697,2,GABA-ergic Neuron
+698,2,GABA-ergic Neuron
+699,3,Glutamatergic Neuron
+700,3,Glutamatergic Neuron
+701,3,Glutamatergic Neuron
+702,3,Glutamatergic Neuron
+703,3,Glutamatergic Neuron
+704,2,GABA-ergic Neuron
+705,2,GABA-ergic Neuron
+706,2,GABA-ergic Neuron
+707,3,Glutamatergic Neuron
+708,3,Glutamatergic Neuron
+709,3,Glutamatergic Neuron
+710,3,Glutamatergic Neuron
+711,2,GABA-ergic Neuron
+712,2,GABA-ergic Neuron
+713,3,Glutamatergic Neuron
+714,0,Astrocyte
+715,3,Glutamatergic Neuron
+716,2,GABA-ergic Neuron
+717,0,Astrocyte
+718,1,Endothelial Cell
+719,3,Glutamatergic Neuron
+720,2,GABA-ergic Neuron
+721,6,Oligodendrocyte.2
+722,2,GABA-ergic Neuron
+723,3,Glutamatergic Neuron
+724,0,Astrocyte
+725,0,Astrocyte
+726,3,Glutamatergic Neuron
+727,2,GABA-ergic Neuron
+728,3,Glutamatergic Neuron
+729,3,Glutamatergic Neuron
+730,2,GABA-ergic Neuron
+731,3,Glutamatergic Neuron
+732,3,Glutamatergic Neuron
+733,3,Glutamatergic Neuron
+734,2,GABA-ergic Neuron
+735,0,Astrocyte
+736,3,Glutamatergic Neuron
+737,3,Glutamatergic Neuron
+738,3,Glutamatergic Neuron
+739,2,GABA-ergic Neuron
+740,3,Glutamatergic Neuron
+741,1,Endothelial Cell
+742,2,GABA-ergic Neuron
+743,3,Glutamatergic Neuron
+744,2,GABA-ergic Neuron
+745,1,Endothelial Cell
+746,2,GABA-ergic Neuron
+747,3,Glutamatergic Neuron
+748,2,GABA-ergic Neuron
+749,0,Astrocyte
+750,2,GABA-ergic Neuron
+751,3,Glutamatergic Neuron
+752,2,GABA-ergic Neuron
+753,4,Microglia
+754,2,GABA-ergic Neuron
+755,2,GABA-ergic Neuron
+756,3,Glutamatergic Neuron
+757,2,GABA-ergic Neuron
+758,3,Glutamatergic Neuron
+759,2,GABA-ergic Neuron
+760,3,Glutamatergic Neuron
+761,2,GABA-ergic Neuron
+762,3,Glutamatergic Neuron
+763,2,GABA-ergic Neuron
+764,2,GABA-ergic Neuron
+765,2,GABA-ergic Neuron
+766,3,Glutamatergic Neuron
+767,0,Astrocyte
+768,2,GABA-ergic Neuron
+769,3,Glutamatergic Neuron
+770,3,Glutamatergic Neuron
+771,3,Glutamatergic Neuron
+772,5,Oligodendrocyte.1
+773,0,Astrocyte
+774,2,GABA-ergic Neuron
+775,3,Glutamatergic Neuron
+776,3,Glutamatergic Neuron
+777,3,Glutamatergic Neuron
+778,3,Glutamatergic Neuron
+779,2,GABA-ergic Neuron
+780,3,Glutamatergic Neuron
+781,2,GABA-ergic Neuron
+782,3,Glutamatergic Neuron
+783,2,GABA-ergic Neuron
+784,3,Glutamatergic Neuron
+785,3,Glutamatergic Neuron
+786,2,GABA-ergic Neuron
+787,3,Glutamatergic Neuron
+788,3,Glutamatergic Neuron
+789,2,GABA-ergic Neuron
+790,2,GABA-ergic Neuron
+791,3,Glutamatergic Neuron
+792,2,GABA-ergic Neuron
+793,2,GABA-ergic Neuron
+794,2,GABA-ergic Neuron
+795,2,GABA-ergic Neuron
+796,3,Glutamatergic Neuron
+797,3,Glutamatergic Neuron
+798,2,GABA-ergic Neuron
+799,2,GABA-ergic Neuron
+800,2,GABA-ergic Neuron
+801,3,Glutamatergic Neuron
+802,2,GABA-ergic Neuron
+803,2,GABA-ergic Neuron
+804,2,GABA-ergic Neuron
+805,3,Glutamatergic Neuron
+806,3,Glutamatergic Neuron
+807,2,GABA-ergic Neuron
+808,3,Glutamatergic Neuron
+809,2,GABA-ergic Neuron
+810,2,GABA-ergic Neuron
+811,3,Glutamatergic Neuron
+812,3,Glutamatergic Neuron
+813,7,Oligodendrocyte.3
+814,3,Glutamatergic Neuron
+815,2,GABA-ergic Neuron
+816,6,Oligodendrocyte.2
+817,3,Glutamatergic Neuron
+818,2,GABA-ergic Neuron
+819,3,Glutamatergic Neuron
+820,3,Glutamatergic Neuron
+821,3,Glutamatergic Neuron
+822,2,GABA-ergic Neuron
+823,2,GABA-ergic Neuron
+824,3,Glutamatergic Neuron
+825,2,GABA-ergic Neuron
+826,2,GABA-ergic Neuron
+827,2,GABA-ergic Neuron
+828,0,Astrocyte
+829,3,Glutamatergic Neuron
+830,3,Glutamatergic Neuron
+831,3,Glutamatergic Neuron
+832,2,GABA-ergic Neuron
+833,2,GABA-ergic Neuron
+834,0,Astrocyte
+835,2,GABA-ergic Neuron
+836,2,GABA-ergic Neuron
+837,3,Glutamatergic Neuron
+838,3,Glutamatergic Neuron
+839,2,GABA-ergic Neuron
+840,1,Endothelial Cell
+841,3,Glutamatergic Neuron
+842,2,GABA-ergic Neuron
+843,2,GABA-ergic Neuron
+844,2,GABA-ergic Neuron
+845,3,Glutamatergic Neuron
+846,2,GABA-ergic Neuron
+847,3,Glutamatergic Neuron
+848,3,Glutamatergic Neuron
+849,3,Glutamatergic Neuron
+850,3,Glutamatergic Neuron
+851,3,Glutamatergic Neuron
+852,2,GABA-ergic Neuron
+853,2,GABA-ergic Neuron
+854,2,GABA-ergic Neuron
+855,2,GABA-ergic Neuron
+856,2,GABA-ergic Neuron
+857,2,GABA-ergic Neuron
+858,2,GABA-ergic Neuron
+859,2,GABA-ergic Neuron
+860,2,GABA-ergic Neuron
+861,3,Glutamatergic Neuron
+862,0,Astrocyte
+863,2,GABA-ergic Neuron
+864,2,GABA-ergic Neuron
+865,2,GABA-ergic Neuron
+866,2,GABA-ergic Neuron
+867,2,GABA-ergic Neuron
+868,2,GABA-ergic Neuron
+869,3,Glutamatergic Neuron
+870,3,Glutamatergic Neuron
+871,2,GABA-ergic Neuron
+872,2,GABA-ergic Neuron
+873,2,GABA-ergic Neuron
+874,3,Glutamatergic Neuron
+875,2,GABA-ergic Neuron
+876,4,Microglia
+877,2,GABA-ergic Neuron
+878,2,GABA-ergic Neuron
+879,3,Glutamatergic Neuron
+880,6,Oligodendrocyte.2
+881,2,GABA-ergic Neuron
+882,0,Astrocyte
+883,2,GABA-ergic Neuron
+884,2,GABA-ergic Neuron
+885,2,GABA-ergic Neuron
+886,2,GABA-ergic Neuron
+887,2,GABA-ergic Neuron
+888,3,Glutamatergic Neuron
+889,6,Oligodendrocyte.2
+890,3,Glutamatergic Neuron
+891,3,Glutamatergic Neuron
+892,3,Glutamatergic Neuron
+893,3,Glutamatergic Neuron
+894,3,Glutamatergic Neuron
+895,3,Glutamatergic Neuron
+896,5,Oligodendrocyte.1
+897,3,Glutamatergic Neuron
+898,3,Glutamatergic Neuron
+899,2,GABA-ergic Neuron
+900,3,Glutamatergic Neuron
+901,7,Oligodendrocyte.3
+902,2,GABA-ergic Neuron
+903,2,GABA-ergic Neuron
+904,3,Glutamatergic Neuron
+905,6,Oligodendrocyte.2
+906,7,Oligodendrocyte.3
+907,2,GABA-ergic Neuron
+908,3,Glutamatergic Neuron
+909,6,Oligodendrocyte.2
+910,0,Astrocyte
+911,3,Glutamatergic Neuron
+912,3,Glutamatergic Neuron
+913,2,GABA-ergic Neuron
+914,2,GABA-ergic Neuron
+915,2,GABA-ergic Neuron
+916,3,Glutamatergic Neuron
+917,2,GABA-ergic Neuron
+918,2,GABA-ergic Neuron
+919,3,Glutamatergic Neuron
+920,6,Oligodendrocyte.2
+921,2,GABA-ergic Neuron
+922,2,GABA-ergic Neuron
+923,2,GABA-ergic Neuron
+924,3,Glutamatergic Neuron
+925,3,Glutamatergic Neuron
+926,2,GABA-ergic Neuron
+927,3,Glutamatergic Neuron
+928,4,Microglia
+929,2,GABA-ergic Neuron
+930,2,GABA-ergic Neuron
+931,3,Glutamatergic Neuron
+932,3,Glutamatergic Neuron
+933,2,GABA-ergic Neuron
+934,3,Glutamatergic Neuron
+935,2,GABA-ergic Neuron
+936,3,Glutamatergic Neuron
+937,2,GABA-ergic Neuron
+938,3,Glutamatergic Neuron
+939,3,Glutamatergic Neuron
+940,2,GABA-ergic Neuron
+941,2,GABA-ergic Neuron
+942,2,GABA-ergic Neuron
+943,3,Glutamatergic Neuron
+944,3,Glutamatergic Neuron
+945,3,Glutamatergic Neuron
+946,3,Glutamatergic Neuron
+947,3,Glutamatergic Neuron
+948,3,Glutamatergic Neuron
+949,0,Astrocyte
+950,3,Glutamatergic Neuron
+951,3,Glutamatergic Neuron
+952,3,Glutamatergic Neuron
+953,2,GABA-ergic Neuron
+954,3,Glutamatergic Neuron
+955,3,Glutamatergic Neuron
+956,3,Glutamatergic Neuron
+957,3,Glutamatergic Neuron
+958,3,Glutamatergic Neuron
+959,3,Glutamatergic Neuron
+960,3,Glutamatergic Neuron
+961,2,GABA-ergic Neuron
+962,0,Astrocyte
+963,3,Glutamatergic Neuron
+964,3,Glutamatergic Neuron
+965,0,Astrocyte
+966,0,Astrocyte
+967,3,Glutamatergic Neuron
+968,2,GABA-ergic Neuron
+969,4,Microglia
+970,2,GABA-ergic Neuron
+971,3,Glutamatergic Neuron
+972,3,Glutamatergic Neuron
+973,2,GABA-ergic Neuron
+974,2,GABA-ergic Neuron
+975,2,GABA-ergic Neuron
+976,3,Glutamatergic Neuron
+977,3,Glutamatergic Neuron
+978,0,Astrocyte
+979,2,GABA-ergic Neuron
+980,3,Glutamatergic Neuron
+981,0,Astrocyte
+982,2,GABA-ergic Neuron
+983,2,GABA-ergic Neuron
+984,3,Glutamatergic Neuron
+985,3,Glutamatergic Neuron
+986,3,Glutamatergic Neuron
+987,6,Oligodendrocyte.2
+988,2,GABA-ergic Neuron
+989,2,GABA-ergic Neuron
+990,2,GABA-ergic Neuron
+991,2,GABA-ergic Neuron
+992,2,GABA-ergic Neuron
+993,2,GABA-ergic Neuron
+994,3,Glutamatergic Neuron
+995,3,Glutamatergic Neuron
+996,3,Glutamatergic Neuron
+997,2,GABA-ergic Neuron
+998,3,Glutamatergic Neuron
+999,3,Glutamatergic Neuron
+1000,2,GABA-ergic Neuron
+1001,2,GABA-ergic Neuron
+1002,2,GABA-ergic Neuron
+1003,0,Astrocyte
+1004,2,GABA-ergic Neuron
+1005,3,Glutamatergic Neuron
+1006,3,Glutamatergic Neuron
+1007,3,Glutamatergic Neuron
+1008,3,Glutamatergic Neuron
+1009,3,Glutamatergic Neuron
+1010,0,Astrocyte
+1011,2,GABA-ergic Neuron
+1012,2,GABA-ergic Neuron
+1013,2,GABA-ergic Neuron
+1014,3,Glutamatergic Neuron
+1015,3,Glutamatergic Neuron
+1016,3,Glutamatergic Neuron
+1017,3,Glutamatergic Neuron
+1018,2,GABA-ergic Neuron
+1019,3,Glutamatergic Neuron
+1020,2,GABA-ergic Neuron
+1021,3,Glutamatergic Neuron
+1022,4,Microglia
+1023,2,GABA-ergic Neuron
+1024,0,Astrocyte
+1025,3,Glutamatergic Neuron
+1026,3,Glutamatergic Neuron
+1027,3,Glutamatergic Neuron
+1028,3,Glutamatergic Neuron
+1029,3,Glutamatergic Neuron
+1030,3,Glutamatergic Neuron
+1031,2,GABA-ergic Neuron
+1032,3,Glutamatergic Neuron
+1033,2,GABA-ergic Neuron
+1034,3,Glutamatergic Neuron
+1035,3,Glutamatergic Neuron
+1036,3,Glutamatergic Neuron
+1037,2,GABA-ergic Neuron
+1038,3,Glutamatergic Neuron
+1039,3,Glutamatergic Neuron
+1040,2,GABA-ergic Neuron
+1041,1,Endothelial Cell
+1042,3,Glutamatergic Neuron
+1043,0,Astrocyte
+1044,3,Glutamatergic Neuron
+1045,3,Glutamatergic Neuron
+1046,2,GABA-ergic Neuron
+1047,2,GABA-ergic Neuron
+1048,3,Glutamatergic Neuron
+1049,2,GABA-ergic Neuron
+1050,7,Oligodendrocyte.3
+1051,3,Glutamatergic Neuron
+1052,3,Glutamatergic Neuron
+1053,3,Glutamatergic Neuron
+1054,3,Glutamatergic Neuron
+1055,2,GABA-ergic Neuron
+1056,3,Glutamatergic Neuron
+1057,4,Microglia
+1058,3,Glutamatergic Neuron
+1059,2,GABA-ergic Neuron
+1060,3,Glutamatergic Neuron
+1061,3,Glutamatergic Neuron
+1062,3,Glutamatergic Neuron
+1063,3,Glutamatergic Neuron
+1064,2,GABA-ergic Neuron
+1065,3,Glutamatergic Neuron
+1066,3,Glutamatergic Neuron
+1067,4,Microglia
+1068,2,GABA-ergic Neuron
+1069,2,GABA-ergic Neuron
+1070,6,Oligodendrocyte.2
+1071,3,Glutamatergic Neuron
+1072,7,Oligodendrocyte.3
+1073,2,GABA-ergic Neuron
+1074,2,GABA-ergic Neuron
+1075,2,GABA-ergic Neuron
+1076,3,Glutamatergic Neuron
+1077,2,GABA-ergic Neuron
+1078,2,GABA-ergic Neuron
+1079,2,GABA-ergic Neuron
+1080,3,Glutamatergic Neuron
+1081,2,GABA-ergic Neuron
+1082,2,GABA-ergic Neuron
+1083,3,Glutamatergic Neuron
+1084,3,Glutamatergic Neuron
+1085,2,GABA-ergic Neuron
+1086,2,GABA-ergic Neuron
+1087,2,GABA-ergic Neuron
+1088,3,Glutamatergic Neuron
+1089,7,Oligodendrocyte.3
+1090,2,GABA-ergic Neuron
+1091,3,Glutamatergic Neuron
+1092,2,GABA-ergic Neuron
+1093,2,GABA-ergic Neuron
+1094,3,Glutamatergic Neuron
+1095,2,GABA-ergic Neuron
+1096,2,GABA-ergic Neuron
+1097,2,GABA-ergic Neuron
+1098,2,GABA-ergic Neuron
+1099,3,Glutamatergic Neuron
+1100,2,GABA-ergic Neuron
+1101,3,Glutamatergic Neuron
+1102,3,Glutamatergic Neuron
+1103,3,Glutamatergic Neuron
+1104,3,Glutamatergic Neuron
+1105,3,Glutamatergic Neuron
+1106,3,Glutamatergic Neuron
+1107,3,Glutamatergic Neuron
+1108,3,Glutamatergic Neuron
+1109,3,Glutamatergic Neuron
+1110,7,Oligodendrocyte.3
+1111,3,Glutamatergic Neuron
+1112,3,Glutamatergic Neuron
+1113,3,Glutamatergic Neuron
+1114,3,Glutamatergic Neuron
+1115,3,Glutamatergic Neuron
+1116,3,Glutamatergic Neuron
+1117,3,Glutamatergic Neuron
+1118,2,GABA-ergic Neuron
+1119,3,Glutamatergic Neuron
+1120,3,Glutamatergic Neuron
+1121,4,Microglia
+1122,2,GABA-ergic Neuron
+1123,6,Oligodendrocyte.2
+1124,2,GABA-ergic Neuron
+1125,3,Glutamatergic Neuron
+1126,3,Glutamatergic Neuron
+1127,2,GABA-ergic Neuron
+1128,3,Glutamatergic Neuron
+1129,3,Glutamatergic Neuron
+1130,2,GABA-ergic Neuron
+1131,3,Glutamatergic Neuron
+1132,3,Glutamatergic Neuron
+1133,3,Glutamatergic Neuron
+1134,5,Oligodendrocyte.1
+1135,3,Glutamatergic Neuron
+1136,2,GABA-ergic Neuron
+1137,4,Microglia
+1138,3,Glutamatergic Neuron
+1139,3,Glutamatergic Neuron
+1140,3,Glutamatergic Neuron
+1141,7,Oligodendrocyte.3
+1142,3,Glutamatergic Neuron
+1143,2,GABA-ergic Neuron
+1144,2,GABA-ergic Neuron
+1145,3,Glutamatergic Neuron
+1146,2,GABA-ergic Neuron
+1147,5,Oligodendrocyte.1
+1148,2,GABA-ergic Neuron
+1149,2,GABA-ergic Neuron
+1150,3,Glutamatergic Neuron
+1151,3,Glutamatergic Neuron
+1152,3,Glutamatergic Neuron
+1153,0,Astrocyte
+1154,3,Glutamatergic Neuron
+1155,3,Glutamatergic Neuron
+1156,3,Glutamatergic Neuron
+1157,3,Glutamatergic Neuron
+1158,3,Glutamatergic Neuron
+1159,3,Glutamatergic Neuron
+1160,2,GABA-ergic Neuron
+1161,3,Glutamatergic Neuron
+1162,3,Glutamatergic Neuron
+1163,3,Glutamatergic Neuron
+1164,3,Glutamatergic Neuron
+1165,3,Glutamatergic Neuron
+1166,3,Glutamatergic Neuron
+1167,3,Glutamatergic Neuron
+1168,3,Glutamatergic Neuron
+1169,3,Glutamatergic Neuron
+1170,3,Glutamatergic Neuron
+1171,3,Glutamatergic Neuron
+1172,2,GABA-ergic Neuron
+1173,3,Glutamatergic Neuron
+1174,3,Glutamatergic Neuron
+1175,3,Glutamatergic Neuron
+1176,3,Glutamatergic Neuron
+1177,3,Glutamatergic Neuron
+1178,0,Astrocyte
+1179,3,Glutamatergic Neuron
+1180,3,Glutamatergic Neuron
+1181,4,Microglia
+1182,3,Glutamatergic Neuron
+1183,2,GABA-ergic Neuron
+1184,3,Glutamatergic Neuron
+1185,2,GABA-ergic Neuron
+1186,3,Glutamatergic Neuron
+1187,2,GABA-ergic Neuron
+1188,6,Oligodendrocyte.2
+1189,3,Glutamatergic Neuron
+1190,3,Glutamatergic Neuron
+1191,3,Glutamatergic Neuron
+1192,3,Glutamatergic Neuron
+1193,2,GABA-ergic Neuron
+1194,3,Glutamatergic Neuron
+1195,3,Glutamatergic Neuron
+1196,3,Glutamatergic Neuron
+1197,3,Glutamatergic Neuron
+1198,3,Glutamatergic Neuron
+1199,3,Glutamatergic Neuron
+1200,3,Glutamatergic Neuron
+1201,2,GABA-ergic Neuron
+1202,3,Glutamatergic Neuron
+1203,3,Glutamatergic Neuron
+1204,3,Glutamatergic Neuron
+1205,2,GABA-ergic Neuron
+1206,4,Microglia
+1207,3,Glutamatergic Neuron
+1208,3,Glutamatergic Neuron
+1209,3,Glutamatergic Neuron
+1210,7,Oligodendrocyte.3
+1211,3,Glutamatergic Neuron
+1212,2,GABA-ergic Neuron
+1213,3,Glutamatergic Neuron
+1214,3,Glutamatergic Neuron
+1215,3,Glutamatergic Neuron
+1216,3,Glutamatergic Neuron
+1217,2,GABA-ergic Neuron
+1218,3,Glutamatergic Neuron
+1219,3,Glutamatergic Neuron
+1220,0,Astrocyte
+1221,3,Glutamatergic Neuron
+1222,2,GABA-ergic Neuron
+1223,3,Glutamatergic Neuron
+1224,3,Glutamatergic Neuron
+1225,3,Glutamatergic Neuron
+1226,2,GABA-ergic Neuron
+1227,3,Glutamatergic Neuron
+1228,2,GABA-ergic Neuron
+1229,3,Glutamatergic Neuron
+1230,3,Glutamatergic Neuron
+1231,3,Glutamatergic Neuron
+1232,2,GABA-ergic Neuron
+1233,3,Glutamatergic Neuron
+1234,3,Glutamatergic Neuron
+1235,3,Glutamatergic Neuron
+1236,2,GABA-ergic Neuron
+1237,3,Glutamatergic Neuron
+1238,3,Glutamatergic Neuron
+1239,2,GABA-ergic Neuron
+1240,2,GABA-ergic Neuron
+1241,3,Glutamatergic Neuron
+1242,0,Astrocyte
+1243,0,Astrocyte
+1244,2,GABA-ergic Neuron
+1245,2,GABA-ergic Neuron
+1246,0,Astrocyte
+1247,3,Glutamatergic Neuron
+1248,2,GABA-ergic Neuron
+1249,2,GABA-ergic Neuron
+1250,0,Astrocyte
+1251,3,Glutamatergic Neuron
+1252,2,GABA-ergic Neuron
+1253,3,Glutamatergic Neuron
+1254,0,Astrocyte
+1255,3,Glutamatergic Neuron
+1256,2,GABA-ergic Neuron
+1257,3,Glutamatergic Neuron
+1258,2,GABA-ergic Neuron
+1259,2,GABA-ergic Neuron
+1260,2,GABA-ergic Neuron
+1261,2,GABA-ergic Neuron
+1262,2,GABA-ergic Neuron
+1263,2,GABA-ergic Neuron
+1264,3,Glutamatergic Neuron
+1265,3,Glutamatergic Neuron
+1266,3,Glutamatergic Neuron
+1267,3,Glutamatergic Neuron
+1268,2,GABA-ergic Neuron
+1269,3,Glutamatergic Neuron
+1270,2,GABA-ergic Neuron
+1271,3,Glutamatergic Neuron
+1272,3,Glutamatergic Neuron
+1273,3,Glutamatergic Neuron
+1274,3,Glutamatergic Neuron
+1275,3,Glutamatergic Neuron
+1276,3,Glutamatergic Neuron
+1277,2,GABA-ergic Neuron
+1278,3,Glutamatergic Neuron
+1279,2,GABA-ergic Neuron
+1280,3,Glutamatergic Neuron
+1281,3,Glutamatergic Neuron
+1282,7,Oligodendrocyte.3
+1283,3,Glutamatergic Neuron
+1284,3,Glutamatergic Neuron
+1285,3,Glutamatergic Neuron
+1286,3,Glutamatergic Neuron
+1287,2,GABA-ergic Neuron
+1288,3,Glutamatergic Neuron
+1289,3,Glutamatergic Neuron
+1290,2,GABA-ergic Neuron
+1291,2,GABA-ergic Neuron
+1292,3,Glutamatergic Neuron
+1293,3,Glutamatergic Neuron
+1294,0,Astrocyte
+1295,3,Glutamatergic Neuron
+1296,2,GABA-ergic Neuron
+1297,3,Glutamatergic Neuron
+1298,3,Glutamatergic Neuron
+1299,3,Glutamatergic Neuron
+1300,2,GABA-ergic Neuron
+1301,2,GABA-ergic Neuron
+1302,3,Glutamatergic Neuron
+1303,2,GABA-ergic Neuron
+1304,0,Astrocyte
+1305,2,GABA-ergic Neuron
+1306,3,Glutamatergic Neuron
+1307,2,GABA-ergic Neuron
+1308,3,Glutamatergic Neuron
+1309,3,Glutamatergic Neuron
+1310,3,Glutamatergic Neuron
+1311,2,GABA-ergic Neuron
+1312,3,Glutamatergic Neuron
+1313,3,Glutamatergic Neuron
+1314,3,Glutamatergic Neuron
+1315,2,GABA-ergic Neuron
+1316,3,Glutamatergic Neuron
+1317,0,Astrocyte
+1318,3,Glutamatergic Neuron
+1319,2,GABA-ergic Neuron
+1320,3,Glutamatergic Neuron
+1321,3,Glutamatergic Neuron
+1322,3,Glutamatergic Neuron
+1323,3,Glutamatergic Neuron
+1324,3,Glutamatergic Neuron
+1325,2,GABA-ergic Neuron
+1326,2,GABA-ergic Neuron
+1327,0,Astrocyte
+1328,3,Glutamatergic Neuron
+1329,0,Astrocyte
+1330,3,Glutamatergic Neuron
+1331,3,Glutamatergic Neuron
+1332,0,Astrocyte
+1333,3,Glutamatergic Neuron
+1334,2,GABA-ergic Neuron
+1335,2,GABA-ergic Neuron
+1336,2,GABA-ergic Neuron
+1337,3,Glutamatergic Neuron
+1338,3,Glutamatergic Neuron
+1339,3,Glutamatergic Neuron
+1340,2,GABA-ergic Neuron
+1341,2,GABA-ergic Neuron
+1342,2,GABA-ergic Neuron
+1343,2,GABA-ergic Neuron
+1344,2,GABA-ergic Neuron
+1345,3,Glutamatergic Neuron
+1346,3,Glutamatergic Neuron
+1347,3,Glutamatergic Neuron
+1348,2,GABA-ergic Neuron
+1349,2,GABA-ergic Neuron
+1350,2,GABA-ergic Neuron
+1351,2,GABA-ergic Neuron
+1352,2,GABA-ergic Neuron
+1353,3,Glutamatergic Neuron
+1354,5,Oligodendrocyte.1
+1355,2,GABA-ergic Neuron
+1356,2,GABA-ergic Neuron
+1357,3,Glutamatergic Neuron
+1358,0,Astrocyte
+1359,2,GABA-ergic Neuron
+1360,3,Glutamatergic Neuron
+1361,3,Glutamatergic Neuron
+1362,0,Astrocyte
+1363,3,Glutamatergic Neuron
+1364,2,GABA-ergic Neuron
+1365,2,GABA-ergic Neuron
+1366,2,GABA-ergic Neuron
+1367,3,Glutamatergic Neuron
+1368,2,GABA-ergic Neuron
+1369,2,GABA-ergic Neuron
+1370,3,Glutamatergic Neuron
+1371,2,GABA-ergic Neuron
+1372,2,GABA-ergic Neuron
+1373,3,Glutamatergic Neuron
+1374,2,GABA-ergic Neuron
+1375,3,Glutamatergic Neuron
+1376,3,Glutamatergic Neuron
+1377,0,Astrocyte
+1378,3,Glutamatergic Neuron
+1379,2,GABA-ergic Neuron
+1380,3,Glutamatergic Neuron
+1381,3,Glutamatergic Neuron
+1382,3,Glutamatergic Neuron
+1383,3,Glutamatergic Neuron
+1384,3,Glutamatergic Neuron
+1385,3,Glutamatergic Neuron
+1386,3,Glutamatergic Neuron
+1387,3,Glutamatergic Neuron
+1388,3,Glutamatergic Neuron
+1389,2,GABA-ergic Neuron
+1390,3,Glutamatergic Neuron
+1391,0,Astrocyte
+1392,3,Glutamatergic Neuron
+1393,3,Glutamatergic Neuron
+1394,3,Glutamatergic Neuron
+1395,3,Glutamatergic Neuron
+1396,3,Glutamatergic Neuron
+1397,3,Glutamatergic Neuron
+1398,3,Glutamatergic Neuron
+1399,3,Glutamatergic Neuron
+1400,2,GABA-ergic Neuron
+1401,2,GABA-ergic Neuron
+1402,3,Glutamatergic Neuron
+1403,3,Glutamatergic Neuron
+1404,3,Glutamatergic Neuron
+1405,3,Glutamatergic Neuron
+1406,6,Oligodendrocyte.2
+1407,3,Glutamatergic Neuron
+1408,3,Glutamatergic Neuron
+1409,3,Glutamatergic Neuron
+1410,3,Glutamatergic Neuron
+1411,3,Glutamatergic Neuron
+1412,3,Glutamatergic Neuron
+1413,0,Astrocyte
+1414,3,Glutamatergic Neuron
+1415,3,Glutamatergic Neuron
+1416,3,Glutamatergic Neuron
+1417,3,Glutamatergic Neuron
+1418,0,Astrocyte
+1419,3,Glutamatergic Neuron
+1420,3,Glutamatergic Neuron
+1421,2,GABA-ergic Neuron
+1422,3,Glutamatergic Neuron
+1423,3,Glutamatergic Neuron
+1424,0,Astrocyte
+1425,3,Glutamatergic Neuron
+1426,3,Glutamatergic Neuron
+1427,3,Glutamatergic Neuron
+1428,0,Astrocyte
+1429,3,Glutamatergic Neuron
+1430,2,GABA-ergic Neuron
+1431,2,GABA-ergic Neuron
+1432,3,Glutamatergic Neuron
+1433,2,GABA-ergic Neuron
+1434,3,Glutamatergic Neuron
+1435,3,Glutamatergic Neuron
+1436,3,Glutamatergic Neuron
+1437,3,Glutamatergic Neuron
+1438,3,Glutamatergic Neuron
+1439,3,Glutamatergic Neuron
+1440,3,Glutamatergic Neuron
+1441,3,Glutamatergic Neuron
+1442,3,Glutamatergic Neuron
+1443,3,Glutamatergic Neuron
+1444,2,GABA-ergic Neuron
+1445,2,GABA-ergic Neuron
+1446,3,Glutamatergic Neuron
+1447,3,Glutamatergic Neuron
+1448,3,Glutamatergic Neuron
+1449,3,Glutamatergic Neuron
+1450,3,Glutamatergic Neuron
+1451,3,Glutamatergic Neuron
+1452,3,Glutamatergic Neuron
+1453,3,Glutamatergic Neuron
+1454,3,Glutamatergic Neuron
+1455,3,Glutamatergic Neuron
+1456,3,Glutamatergic Neuron
+1457,3,Glutamatergic Neuron
+1458,3,Glutamatergic Neuron
+1459,3,Glutamatergic Neuron
+1460,3,Glutamatergic Neuron
+1461,2,GABA-ergic Neuron
+1462,3,Glutamatergic Neuron
+1463,3,Glutamatergic Neuron
+1464,3,Glutamatergic Neuron
+1465,3,Glutamatergic Neuron
+1466,3,Glutamatergic Neuron
+1467,2,GABA-ergic Neuron
+1468,3,Glutamatergic Neuron
+1469,3,Glutamatergic Neuron
+1470,2,GABA-ergic Neuron
+1471,3,Glutamatergic Neuron
+1472,2,GABA-ergic Neuron
+1473,3,Glutamatergic Neuron
+1474,3,Glutamatergic Neuron
+1475,3,Glutamatergic Neuron
+1476,3,Glutamatergic Neuron
+1477,3,Glutamatergic Neuron
+1478,3,Glutamatergic Neuron
+1479,2,GABA-ergic Neuron
+1480,2,GABA-ergic Neuron
+1481,3,Glutamatergic Neuron
+1482,2,GABA-ergic Neuron
+1483,1,Endothelial Cell
+1484,2,GABA-ergic Neuron
+1485,2,GABA-ergic Neuron
+1486,3,Glutamatergic Neuron
+1487,3,Glutamatergic Neuron
+1488,3,Glutamatergic Neuron
+1489,2,GABA-ergic Neuron
+1490,3,Glutamatergic Neuron
+1491,2,GABA-ergic Neuron
+1492,2,GABA-ergic Neuron
+1493,3,Glutamatergic Neuron
+1494,3,Glutamatergic Neuron
+1495,3,Glutamatergic Neuron
+1496,3,Glutamatergic Neuron
+1497,2,GABA-ergic Neuron
+1498,3,Glutamatergic Neuron
+1499,3,Glutamatergic Neuron
+1500,3,Glutamatergic Neuron
+1501,3,Glutamatergic Neuron
+1502,3,Glutamatergic Neuron
+1503,2,GABA-ergic Neuron
+1504,2,GABA-ergic Neuron
+1505,2,GABA-ergic Neuron
+1506,2,GABA-ergic Neuron
+1507,3,Glutamatergic Neuron
+1508,3,Glutamatergic Neuron
+1509,7,Oligodendrocyte.3
+1510,3,Glutamatergic Neuron
+1511,2,GABA-ergic Neuron
+1512,3,Glutamatergic Neuron
+1513,2,GABA-ergic Neuron
+1514,2,GABA-ergic Neuron
+1515,3,Glutamatergic Neuron
+1516,0,Astrocyte
+1517,3,Glutamatergic Neuron
+1518,0,Astrocyte
+1519,2,GABA-ergic Neuron
+1520,3,Glutamatergic Neuron
+1521,3,Glutamatergic Neuron
+1522,3,Glutamatergic Neuron
+1523,2,GABA-ergic Neuron
+1524,2,GABA-ergic Neuron
+1525,3,Glutamatergic Neuron
+1526,2,GABA-ergic Neuron
+1527,3,Glutamatergic Neuron
+1528,2,GABA-ergic Neuron
+1529,3,Glutamatergic Neuron
+1530,3,Glutamatergic Neuron
+1531,3,Glutamatergic Neuron
+1532,3,Glutamatergic Neuron
+1533,3,Glutamatergic Neuron
+1534,7,Oligodendrocyte.3
+1535,3,Glutamatergic Neuron
+1536,3,Glutamatergic Neuron
+1537,3,Glutamatergic Neuron
+1538,2,GABA-ergic Neuron
+1539,2,GABA-ergic Neuron
+1540,3,Glutamatergic Neuron
+1541,2,GABA-ergic Neuron
+1542,3,Glutamatergic Neuron
+1543,3,Glutamatergic Neuron
+1544,2,GABA-ergic Neuron
+1545,7,Oligodendrocyte.3
+1546,2,GABA-ergic Neuron
+1547,3,Glutamatergic Neuron
+1548,2,GABA-ergic Neuron
+1549,2,GABA-ergic Neuron
+1550,3,Glutamatergic Neuron
+1551,3,Glutamatergic Neuron
+1552,3,Glutamatergic Neuron
+1553,0,Astrocyte
+1554,3,Glutamatergic Neuron
+1555,3,Glutamatergic Neuron
+1556,0,Astrocyte
+1557,0,Astrocyte
+1558,3,Glutamatergic Neuron
+1559,7,Oligodendrocyte.3
+1560,3,Glutamatergic Neuron
+1561,0,Astrocyte
+1562,3,Glutamatergic Neuron
+1563,2,GABA-ergic Neuron
+1564,2,GABA-ergic Neuron
+1565,3,Glutamatergic Neuron
+1566,0,Astrocyte
+1567,3,Glutamatergic Neuron
+1568,3,Glutamatergic Neuron
+1569,2,GABA-ergic Neuron
+1570,2,GABA-ergic Neuron
+1571,3,Glutamatergic Neuron
+1572,3,Glutamatergic Neuron
+1573,3,Glutamatergic Neuron
+1574,3,Glutamatergic Neuron
+1575,3,Glutamatergic Neuron
+1576,3,Glutamatergic Neuron
+1577,3,Glutamatergic Neuron
+1578,3,Glutamatergic Neuron
+1579,3,Glutamatergic Neuron
+1580,0,Astrocyte
+1581,3,Glutamatergic Neuron
+1582,2,GABA-ergic Neuron
+1583,3,Glutamatergic Neuron
+1584,3,Glutamatergic Neuron
+1585,2,GABA-ergic Neuron
+1586,2,GABA-ergic Neuron
+1587,2,GABA-ergic Neuron
+1588,0,Astrocyte
+1589,3,Glutamatergic Neuron
+1590,0,Astrocyte
+1591,3,Glutamatergic Neuron
+1592,3,Glutamatergic Neuron
+1593,3,Glutamatergic Neuron
+1594,3,Glutamatergic Neuron
+1595,3,Glutamatergic Neuron
+1596,2,GABA-ergic Neuron
+1597,2,GABA-ergic Neuron
