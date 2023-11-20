@@ -163,4 +163,3 @@ for epoch in range(500):
     test_fpr.append(fpr_score)
 
     print("Epoch:", '%04d' % (epoch + 1), "loss_1=", "{:.3f}".format(loss_mar.item()), "loss_2=", "{:.3f}".format(loss_mar_1.item()), "loss_3=", "{:.3f}".format(mask_margin_N.item()), "loss=", "{:.3f}".format(loss.item()), embs)
-
