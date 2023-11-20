@@ -4,7 +4,6 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 
-
 def make_mlplayers(in_channel, cfg, batch_norm=False, out_layer =None):
     layers = []
     in_channels = in_channel
