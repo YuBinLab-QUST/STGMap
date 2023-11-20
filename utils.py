@@ -66,7 +66,6 @@ def read_cell_label(input_label):
     label = pd.read_csv(open(input_label))  
     return label
 
-
 def write_csv_matrix(matrix, filename, ifindex=False, ifheader=True, rownames=None, colnames=None, transpose=False):
     if transpose:
         matrix = matrix.T
